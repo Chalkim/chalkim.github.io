@@ -5,7 +5,7 @@ mathjax: true
 categories:
 - 线性代数
 tags: 
-- 线性代数
+- Jordan标准型
 - 特征向量
 ---
 
