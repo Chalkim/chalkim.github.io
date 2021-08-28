@@ -6,14 +6,14 @@
 title: Chalkim's Blog
 subtitle: ''
 description: '这里是Chalkim的博客，经常会分享一些IT学习相关的经验与感悟。欢迎进站交流！'
-keywords:
+keywords: Chalkim
 author: Chalkim
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://chalkim.ga
+url: https://blog.chalkim.ga
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -125,6 +125,14 @@ neat_js:
   compress:
   exclude:
     - '*.min.js'     #js文件压缩排除列表
+
+# https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: false
+  tags: true
+  categories: true
 
 # https://github.com/viko16/hexo-permalink-pinyin
 permalink_pinyin:
