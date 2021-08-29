@@ -338,7 +338,7 @@ k&0
   <entry>
     <title>最优二叉搜索树算法</title>
     <url>/posts/2679695428/</url>
-    <content><![CDATA[<p>&emsp;&emsp;最优二叉搜索树算法是一种<a href="/2021/01/26/suan-fa-ji-chu-dong-tai-gui-hua/">动态规划算法</a>。该算法解决的问题是：在给定结点出现频率的前提下，如何组织一颗二叉搜索树，使所有搜索操作访问的结点数最少？这也是一个最优解问题。</p>
+    <content><![CDATA[<p>&emsp;&emsp;最优二叉搜索树算法是一种<a href="/posts/766510942/">动态规划算法</a>。该算法解决的问题是：在给定结点出现频率的前提下，如何组织一颗二叉搜索树，使所有搜索操作访问的结点数最少？这也是一个最优解问题。</p>
 <a id="more"></a>
 <h3 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h3><p>&emsp;&emsp;给定一个n个不同关键字的已排序的序列K，用该序列构建一颗二叉搜索树。对于每个关键字<script type="math/tex">k_i</script>，都有一个概率<script type="math/tex">p_i</script>表示其搜索频率。有些要搜索的值可能不在K中，应次还有n+1个伪关键字<script type="math/tex">d_0,d_1,\cdots,d_n</script>表示不在K中的值。$d_0$表示所有小于<script type="math/tex">k_1</script>的值，<script type="math/tex">d_n</script>表示所有大于<script type="math/tex">k_n</script>的值。对于每一个<script type="math/tex">d_i</script>,也有一个概率<script type="math/tex">q_i</script>表示其搜索频率。每次查找要么成功（找到某个关键字），要么失败（找到某个伪关键字）。</p>
 <script type="math/tex; mode=display">
