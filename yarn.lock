@@ -827,6 +827,12 @@ hexo-neat@^1.0.9:
     stream-to-array "^2.3.0"
     uglify-js "~3.10.0"
 
+"hexo-next-utteranc@github:theme-next/hexo-next-utteranc":
+  version "1.0.0"
+  resolved "https://codeload.github.com/theme-next/hexo-next-utteranc/tar.gz/f592272a73cb47923f25443709786942f0398a69"
+  dependencies:
+    next-util "^1.0.0"
+
 hexo-pagination@1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/hexo-pagination/download/hexo-pagination-1.0.0.tgz#c9c0ca3665267b9e9d0a89fc3edcaf3276907dc1"
@@ -1107,6 +1113,14 @@ isexe@^2.0.0:
   resolved "https://registry.npm.taobao.org/isexe/download/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=
 
+js-yaml@3.14.0:
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.0.tgz#a7a34170f26a21bb162424d8adacb4113a69e482"
+  integrity sha512-/4IbIeHcD9VMHFqDR/gQ7EdZdLimOvW2DdcxFjdyyZ9NsbS+ccrXqVWDtab/lRl5AlUqmpBx8EhPaWR+OtY17A==
+  dependencies:
+    argparse "^1.0.7"
+    esprima "^4.0.0"
+
 js-yaml@^3.12.0, js-yaml@^3.13.1:
   version "3.14.1"
   resolved "https://registry.npm.taobao.org/js-yaml/download/js-yaml-3.14.1.tgz#dae812fdb3825fa306609a8717383c50c36a0537"
@@ -1196,6 +1210,11 @@ lodash.some@^4.4.0:
   version "4.6.0"
   resolved "https://registry.npm.taobao.org/lodash.some/download/lodash.some-4.6.0.tgz#1bb9f314ef6b8baded13b549169b2a945eb68e4d"
   integrity sha1-G7nzFO9ri63tE7VJFpsqlF62jk0=
+
+lodash@4.17.19:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 longest@^1.0.1:
   version "1.0.1"
@@ -1328,6 +1347,14 @@ negotiator@0.6.2:
   version "0.6.2"
   resolved "https://registry.npm.taobao.org/negotiator/download/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
   integrity sha1-/qz3zPUlp3rpY0Q2pkiD/+yjRvs=
+
+next-util@^1.0.0:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/next-util/-/next-util-1.2.1.tgz#c6cfa79e70405748f384e77da1251e00ec826176"
+  integrity sha512-zhCYOcosgFHKjs9KldRnGCTDCmnjGmV71G8MqfKtqze2ixBnj3/xbABB46AepUJnjBVce6jgZRN6m4YpyQWlpQ==
+  dependencies:
+    js-yaml "3.14.0"
+    lodash "4.17.19"
 
 nib@^1.1.2:
   version "1.1.2"

@@ -568,7 +568,7 @@ comments:
   style: tabs
   # Choose a comment system to be displayed by default.
   # Available values: changyan | disqus | disqusjs | gitalk | livere | valine
-  active: disqus
+  active:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
@@ -581,10 +581,21 @@ comments:
     #gitalk:
     #  order: -2
 
+# Demo: https://utteranc.es/  http://trumandu.github.io/about/
+utteranc:
+  enable: true
+  repo: Chalkim/blog.chalkim.ga #Github repo such as :TrumanDu/comments
+  pathname: pathname
+  # theme: github-light,github-dark,github-dark-orange
+  theme: github-light
+  cdn: https://utteranc.es/client.js
+  # If you want to modify priority, please config in **hexo**
+  #priority:
+
 # Disqus
 disqus:
-  enable: true
-  shortname: chalkim-blog
+  enable: false
+  shortname:
   count: false
   #post_meta_order: 0
 
