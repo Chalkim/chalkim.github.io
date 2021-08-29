@@ -159,5 +159,5 @@ permalink_pinyin:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/Chalkim/chalkim.github.io
-  branch: master
+  repo: git@github.com:Chalkim/blog.chalkim.ga.git
+  branch: pages
