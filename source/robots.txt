@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chalkim.ga/sitemap.xml
+Sitemap: https://blog.chalkim.ga/sitemap.xml
