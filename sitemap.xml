@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chalkim.ga/posts/2216331533/</loc>
+    
+    <lastmod>2021-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chalkim.ga/posts/1103454310/</loc>
+    
+    <lastmod>2021-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chalkim.ga/posts/160094693/</loc>
+    
+    <lastmod>2021-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chalkim.ga/posts/1189165209/</loc>
+    
+    <lastmod>2021-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.chalkim.ga/posts/3712086987/</loc>
     
     <lastmod>2021-08-29</lastmod>
@@ -56,6 +92,15 @@
   </url>
   
   <url>
+    <loc>https://blog.chalkim.ga/404.html</loc>
+    
+    <lastmod>2021-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.chalkim.ga/categories/index.html</loc>
     
     <lastmod>2021-08-29</lastmod>
@@ -66,51 +111,6 @@
   
   <url>
     <loc>https://blog.chalkim.ga/tags/index.html</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chalkim.ga/posts/2216331533/</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chalkim.ga/posts/1103454310/</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chalkim.ga/posts/160094693/</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chalkim.ga/posts/1189165209/</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chalkim.ga/404.html</loc>
     
     <lastmod>2021-08-29</lastmod>
     
