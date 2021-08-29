@@ -1,0 +1,7 @@
+- name: Hexo Action
+  uses: sma11black/hexo-action@v1.0.4
+  with:
+    user_name: # default is github-actions[bot]
+    user_email: # default is 41898282+github-actions[bot]@users.noreply.github.com
+    deploy_key: ${{ secrets.ACCESS_TOKEN }}
+    commit_msg: ${{ github.event.head_commit.message }}
