@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.chalkim.ga/posts/1189165209/</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chalkim.ga/posts/3712086987/</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.chalkim.ga/posts/3408363866/</loc>
     
     <lastmod>2021-08-29</lastmod>
@@ -102,6 +84,24 @@
   
   <url>
     <loc>https://blog.chalkim.ga/posts/160094693/</loc>
+    
+    <lastmod>2021-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chalkim.ga/posts/1189165209/</loc>
+    
+    <lastmod>2021-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chalkim.ga/posts/3712086987/</loc>
     
     <lastmod>2021-08-29</lastmod>
     
