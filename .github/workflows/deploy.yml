@@ -28,4 +28,4 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           branch: pages
-          folder: .
+          folder: public
