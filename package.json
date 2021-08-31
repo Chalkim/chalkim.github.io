@@ -16,6 +16,7 @@
     "hexo-abbrlink": "^2.2.1",
     "hexo-asset-image-for-hexo5": "^2.1.7",
     "hexo-deployer-git": "^2.1.0",
+    "hexo-filter-flowchart": "^1.0.4",
     "hexo-filter-mermaid-diagrams": "^1.0.5",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",

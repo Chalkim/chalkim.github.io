@@ -706,6 +706,13 @@ hexo-deployer-git@^2.1.0:
     moment "^2.18.0"
     swig-templates "^2.0.2"
 
+hexo-filter-flowchart@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/hexo-filter-flowchart/-/hexo-filter-flowchart-1.0.4.tgz#5b213126a02771df260ed0d5c6e04613486f9ccf"
+  integrity sha1-WyExJqAncd8mDtDVxuBGE0hvnM8=
+  dependencies:
+    deep-assign "^2.0.0"
+
 hexo-filter-mermaid-diagrams@^1.0.5:
   version "1.0.5"
   resolved "https://registry.npm.taobao.org/hexo-filter-mermaid-diagrams/download/hexo-filter-mermaid-diagrams-1.0.5.tgz#1e32fc4e46eab90cf3a375b5c830a9f2aef1640f"
