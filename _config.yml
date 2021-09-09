@@ -150,11 +150,6 @@ abbrlink:
   auto_date: false #enable auto date, it can auto fill the date by time today
   force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink.
 
-# https://github.com/viko16/hexo-permalink-pinyin
-permalink_pinyin:
-  enable: false
-  separator: '-' # default: '-'
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
